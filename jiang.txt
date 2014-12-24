@@ -1,0 +1,42 @@
+(让我们荡起双桨)
+
+K C
+
+M 2/4
+
+(前奏)
+p2 l8 pcde g4a4 p<a>cd e4g4 p<ega> c4e4 de16d16c<b> <a4aa> <apap> <a>
+
+(1)
+<a>cd e.4g16g16 ecd4 <a2> 
+pcde g.4g a4d4 e.2(pp)
+(pp)eg a2 g.4a >c<b16a16ga e4(pp)
+(pp)cd16d16 e.4g cc<a4> cd16d16ea g.2p4
+
+e2 a.4a gfe4 d2 e.4g <a>cd4
+p4cd e4e.g16 a4>c4< bage a1
+
+(1-)
+a1 l16 e8bagfed e8gfedc<b> c8edc<bag> <a8>eee8e8 a8>eee8e8< l8 >a<
+
+(2)
+<a>cd e.4g16g16 ecd4 <a2> 
+pcde g.4g a4d4 e.2(pp)
+(pp)eg a2 g.4a >c<b16a16ga e4(pp)
+(pp)cd16d16 e.4g cc<a4> cd16d16ea g.2p4
+
+e2 a.4a gfe4 d2 e.4g <a>cd4
+p4cd e4e.g16 a4>c4< bage a1
+
+(2-)
+a1 l16 e8bagfed e8gfedc<b> c8edc<bag> <a8>eee8e8 a8>eee8e8< l8 >a<
+
+
+(3)
+<a>cd e.4g16g16 ecd4 <a2> 
+pcde g.4g a4d4 e.2(pp)
+(pp)eg a2 g.4a >c<b16a16ga e4(pp)
+(pp)cd16d16 e.4g cc<a4> cd16d16ea g.2p4
+
+e2 a.4a gfe4 d2 e.4g <a>cd4
+p4cd e4e.g16 a4>c4< bage a1

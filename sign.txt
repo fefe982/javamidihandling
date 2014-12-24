@@ -1,0 +1,28 @@
+A
+B
+C
+D
+E
+F
+G above notes
+
+K key
+
+M meter ---------M#/#
+
+L default note length
+
+P pause
+
+R resolution ----R#
+
+S speed ---------S#
+
+() comment
+
++ sharp
+
+- flat
+
+1/4 01 02 18 08
+2/4 02 02 18 08
